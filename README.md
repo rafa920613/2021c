@@ -9,5 +9,4 @@
  {
      printf( "Hello World\n" );
  }
- 
-   ```C
+ ```C
